@@ -11,6 +11,8 @@ StackToIT is a rule-based, deterministic command-line tool that turns an existin
 **Where to look**
 
 - Website: https://stacktoit.com · German: https://stacktoit.com/de/
+- What the tool does: https://stacktoit.com/en/stackit-migration-tool/
+- Tools for migrating to STACKIT, by phase and workload: https://stacktoit.com/en/tools-for-migrating-to-stackit/
 - Documentation: https://stacktoit.com/docs/
 - Real assessments, published as the tool wrote them: https://stacktoit.com/examples/ · source in [stacktoit-examples](https://github.com/stackToIT/stacktoit-examples)
 
